@@ -16,17 +16,18 @@
 - [FIND DESIGN INSPIRATION](#inspirations)
 
 ## DEVELOPMENT TOOLS
-list of websites for Tools and IDEs for developers
+list of code editors and IDEs for developers
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [UI Design Daily](https://code.visualstudio.com/)                                                        | Free Code Editor and IDE Built on open source. Runs everywhere.
-| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens.             |
-| [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |
-| [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
-| [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
-| [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
-| [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create. |
+| [Vs code](https://code.visualstudio.com/)                                                        | Free Code Editor and IDE Built on open source. Runs everywhere.
+| [Atom](https://atom.io/)                                                           | A hackable text editor for the 21st Century            |
+| [Sublime Text](https://www.sublimetext.com/)                                                  | A sophisticated text editor for
+code, markup and prose                      |
+| [Bracket](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
+| [Notepad++](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
+| [NetBeans](https://netbeans.org/)                                                                    | Illustrations for designers and startups                           |
+| [PyCharm](https://www.jetbrains.com/pycharm/)                                                                          | Open-source illustrations for any idea you can imagine and create. |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
 | [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
 | [animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
