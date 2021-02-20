@@ -37,5 +37,3 @@ list of of HTML5 resources for developers
 | [HTML5 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)                                                                | Free Code Editor and IDE Built on open source. Runs everywhere.
 | [HTML Entity Reference by CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/)                                                                                 | Super useful reference, gives you HTML entity name, numeric code, hex code and ISO code.
    |
- [HTML Entity Reference by CSS-Tricks](https://atom.io/)                                                                                 | Super useful reference, gives you HTML entity name, numeric code, hex code and ISO code.
-   |
