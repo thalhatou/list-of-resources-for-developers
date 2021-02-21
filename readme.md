@@ -49,7 +49,7 @@ list of of CSS3 resources for developers
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                              |
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [CSS3 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                      | As with HTML5, you don't need to know every CSS3 property. Use this reference instead..  |
-| [HTML Entity Reference by CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/)                      | Super useful reference, gives you HTML entity name, numeric code, hex code and ISO code. |
+| [CSS3 Reference by Codrops](https://tympanus.net/codrops/css_reference/)                      |Another excellent CSS3 reference, this time from Codrops. Make sure to check this one out, too. |
 |                                                                                                          |
 | [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)                                          | A very handy printable HTML5 cheat sheet that can save you a ton of time.                |
 |                                                                                                          |
