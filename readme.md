@@ -51,5 +51,5 @@ list of of CSS3 resources for developers
 | [CSS3 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                      | As with HTML5, you don't need to know every CSS3 property. Use this reference instead..  |
 | [CSS3 Reference by Codrops](https://tympanus.net/codrops/css_reference/)                      |Another excellent CSS3 reference, this time from Codrops. Make sure to check this one out, too. |
 |                                                                                                          |
-| [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)                                          | A very handy printable HTML5 cheat sheet that can save you a ton of time.                |
+| [Animate.css](https://websitesetup.org/html5-cheat-sheet/)                                          | A simple CSS library that lets you add animations with ease.               |
 |                                                                                                          |
