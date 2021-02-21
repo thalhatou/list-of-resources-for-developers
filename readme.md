@@ -4,7 +4,7 @@
 
 - [DEVELOPMENT TOOLS](#development-tools)
 - [HTML5 RESOURCES](#html5resources)
-- [CSS RESOURCES](#css)
+- [CSS3 RESOURCES](#css)
 - [JAVASCRIPT RESOURCES](#javascript)
 - [FONTS AND TYPOGRAPHY TOOLS](#fonts-typography)
 - [GREAT COLORS AND TOOLS](#color-tools)
@@ -38,6 +38,18 @@ list of of HTML5 resources for developers
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [HTML5 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)                      | Free Code Editor and IDE Built on open source. Runs everywhere.                          |
 | [HTML Entity Reference by CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/)                      | Super useful reference, gives you HTML entity name, numeric code, hex code and ISO code. |
-|  |
+|                                                                                                          |
 | [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)                                          | A very handy printable HTML5 cheat sheet that can save you a ton of time.                |
-|  |
+|                                                                                                          |
+
+## CSS3 RESOURCES
+
+list of of CSS3 resources for developers
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                              |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [CSS3 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                      | As with HTML5, you don't need to know every CSS3 property. Use this reference instead..  |
+| [HTML Entity Reference by CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/)                      | Super useful reference, gives you HTML entity name, numeric code, hex code and ISO code. |
+|                                                                                                          |
+| [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)                                          | A very handy printable HTML5 cheat sheet that can save you a ton of time.                |
+|                                                                                                          |
