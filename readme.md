@@ -47,14 +47,14 @@ list of of HTML5 resources for developers
 list of of CSS3 resources for developers
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                     |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --- |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [CSS3 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                      | As with HTML5, you don't need to know every CSS3 property. Use this reference instead..         |
 | [CSS3 Reference by Codrops](https://tympanus.net/codrops/css_reference/)                                 | Another excellent CSS3 reference, this time from Codrops. Make sure to check this one out, too. |
 |                                                                                                          |
 | [Animate.css](https://animate.style/)                                                                    | A simple CSS library that lets you add animations with ease.                                    |
 |                                                                                                          |
-| [Can I Use?](https://caniuse.com/)                                                                       |
-| Up-to-date browser support tables for front-end technologies on desktop and mobile browsers              |                                                                                                 |     |
+| [Can I Use?](https://caniuse.com/)                                                                       
+| Up-to-date browser support tables for front-end technologies on desktop and mobile browsers              |
 |                                                                                                          |
 | [ CSS for People Who Hate CSS](https://websitesetup.org/html5-cheat-sheet/)                              | https://paulcpederson.com/articles/css-for-people-who-hate-css/                                 |
 |                                                                                                          |
