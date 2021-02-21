@@ -54,7 +54,7 @@ list of of CSS3 resources for developers
 | [Animate.css](https://animate.style/)                                                                    | A simple CSS library that lets you add animations with ease.                                    |
 |                                                                                                          |
 | [Can I Use?](https://caniuse.com/)                                                                       |
-| Up-to-date browser support tables for front-end technologies on desktop and mobile browsers              |
+| Up-to-date browser support tables for front-end technologies on desktop and mobile browsers              ||
 |                                                                                                          |
 | [ CSS for People Who Hate CSS](https://websitesetup.org/html5-cheat-sheet/)                              | https://paulcpederson.com/articles/css-for-people-who-hate-css/                                 |
 |                                                                                                          |
