@@ -53,7 +53,8 @@ list of of CSS3 resources for developers
 |                                                                                                          |
 | [Animate.css](https://animate.style/)                                          | A simple CSS library that lets you add animations with ease.               |
 |                                                                                                          |
-| [Animate.css](https://websitesetup.org/html5-cheat-sheet/)                                          | A simple CSS library that lets you add animations with ease.               |
+| [Can I Use?](https://caniuse.com/)                                          | 
+Up-to-date browser support tables for front-end technologies on desktop and mobile browsers           |
 |                                                                                                          |
 | [Animate.css](https://websitesetup.org/html5-cheat-sheet/)                                          | A simple CSS library that lets you add animations with ease.               |
 |                                                                                                          |
